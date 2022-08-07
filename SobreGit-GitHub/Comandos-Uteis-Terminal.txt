@@ -1,0 +1,18 @@
+Comandos de terminal Windows:
+
+	- dir: Exibe todos as pastas do diretório;
+	- cd: Abre um diretório;
+	- mkdir: Cria um diretório;
+	- cls: Limpar a tela do terminal;
+	- del:  Deleta apenas arquivos;
+	- rmdir: Remove todo o repositório.
+
+Comandos de terminal Linux:
+	- ls: Lista todos os arquivos do diretório;
+	- df: Mostra a quantidade de espaço usada no disco rígido;
+	- cd: Acessa uma determinada pasta (diretório);
+	- mkdir: Cria um diretório;
+	- rm: Remove um arquivo/diretório;
+	- cat: Abre um arquivo;
+	- vi: Abre o editor vi (lê-se viai) para editar/criar arquivos;
+	- clear: Limpa a tela do terminal.

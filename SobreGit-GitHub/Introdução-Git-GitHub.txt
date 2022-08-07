@@ -1,0 +1,44 @@
+O Git vem com uma proposta de ajudar os desenvolvedores a organizar suas versões de softwares, com um sistema simples.
+Foi criado por Linus Torvalds em 2005. Vale ressaltar que, o Git e GitHub são softwares diferentes, porém com a mesma ideia, sendo o GitHub criado pela Microsoft.
+
+Benefícios de aprender essas duas ferramentas:
+1 - Controle de Versão
+2 - Armazenamento em nuvem
+3 - Trabalho em equipe
+4 - Melhorar seu código
+5 - Gera reconhecimento
+
+Tópicos fundamentais de funcionamento do Git.
+
+SHA1:
+	- A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções Hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+	- A encriptação gera um conjunto de characteres idenficador de 40 dígitos.
+
+Objetos internos do Git:
+
+Blobs:
+	- Serve para obter o SHA1 do arquivo/diretório.
+	- O Blob contém um meta dado, sendo ele:
+							Blob
+							\0
+							Olá Mundo
+Tree:
+	- Elas armazenam os blobs, sendo literalmente uma "árvore" de armazenamento.
+	- Também contém um meta dado, sendo ele:
+							Tree
+							\0
+							Blob sa4d8s texto.txt
+
+Commit
+	- Ele é responsável por juntar tudo que vimos até agora.
+	- Contém os seguintes meta dados:
+							Commit
+							Tree	S4a5sq1
+							Parente	A98acq1
+							Autor	Perkles
+							Mensagem	"inicia..."
+							timestamp	
+							O SHA1 desse commit é o hash de toda a informação
+
+Sistema distribuído seguro
+	- O código que esta na nuvem do Git está totalmente seguro pois era inteiramente protegido pela encriptação SHA1 e tendo o código com por exemplo 40 pessoas contribuindo no funcionamento dele, mesmo que o servidor do Git inteiro caia essas 40 pessoas terão ao menos a ultima versão do código guardado com elas.
