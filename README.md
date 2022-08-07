@@ -1,18 +1,18 @@
-# RepositÛrio Desafio de Projeto
+# Reposit√≥rio Desafio de Projeto
 
-O presente repositorio tem por finalidade o desafio de projeto proposto pela DIO em sua trilha do Bootcamp Linux Experience, que conta com um total de 42 horas de conte˙do.
+O presente reposit√≥rio tem por finalidade o desafio de projeto proposto pela DIO em sua trilha do Bootcamp Linux Experience, que conta com um total de 42 horas de conte√∫do.
 
-Este È o primeiro desafio do Bootcamp que conter· atÈ o termino quatro projetos ao todo.
+Este √© o primeiro desafio do Bootcamp que conter√° at√© o termino quatro projetos ao todo.
 
-## Sobre o que foi passado atÈ o presente momento.
+## Sobre o que foi passado at√© o presente momento.
 
-O conte˙do do curso È impec·vel e posso dizer que, a did·tica dos professores s„o de extrema facilidade de aprendizado. Os Cursos que nos foi passado atÈ agora foram:
+O conte√∫do do curso √© impec√°vel e posso dizer que, a did√°tica dos professores s√£o de extrema facilidade de aprendizado. Os Cursos que nos foi passado at√© agora foram:
 
-- IntroduÁ„o ao Desenvolvimento Moderno de Software;
-- IntruÁ„o ‡ ProgramaÁ„o e Pensamento Computacional;
-- IntroduÁ„o ao Git e GitHub.
+- Introdu√ß√£o ao Desenvolvimento Moderno de Software;
+- Introdu√ß√£o √† Programa√ß√£o e Pensamento Computacional;
+- Introdu√ß√£o ao Git e GitHub.
 
-## Links ⁄teis:
+## Links √öteis:
 
-[DIO](https://www.dio.me)
+[DIO](https://www.dio.me)  
 [Syntax Markdown](https://www.markdownguide.org/basic-syntax/)
